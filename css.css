@@ -1,0 +1,20 @@
+#inputs #inputs {
+    display: none;
+}
+body{
+    background-color: lightblue;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+#Content_ID{
+    width: 50%;
+}
+#Content_ID *{
+    background-color: lavender;
+}
+
+
+main {
+    flex: 1 0 auto;
+}
